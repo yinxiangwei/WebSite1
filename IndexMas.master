@@ -1,0 +1,110 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="IndexMas.master.cs" Inherits="IndexMas" %>
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>EZ-LE@RN</title>
+<link href="templatemo_style.css" rel="stylesheet" type="text/css" />
+<link href="fullsize/fullsize.css" media="screen" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="fullsize/jquery.js"></script>
+<script type="text/javascript" src="fullsize/jquery.fullsize.minified.js"></script>
+
+<!-- basic styles -->
+
+		<link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="assets/css/font-awesome.min.css" />
+
+		<!--[if IE 7]>
+		  <link rel="stylesheet" href="assets/css/font-awesome-ie7.min.css" />
+		<![endif]-->
+
+		<!-- page specific plugin styles -->
+
+		<!-- fonts -->
+
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" />
+
+		<!-- ace styles -->
+
+		<link rel="stylesheet" href="assets/css/ace.min.css" />
+		<link rel="stylesheet" href="assets/css/ace-rtl.min.css" />
+		<link rel="stylesheet" href="assets/css/ace-skins.min.css" />
+
+		<!--[if lte IE 8]>
+		  <link rel="stylesheet" href="assets/css/ace-ie.min.css" />
+		<![endif]-->
+
+		<!-- inline styles related to this page -->
+
+		<!-- ace settings handler -->
+
+		<script src="assets/js/ace-extra.min.js"></script>
+
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+
+		<!--[if lt IE 9]>
+		<script src="assets/js/html5shiv.js"></script>
+		<script src="assets/js/respond.min.js"></script>
+		<![endif]-->
+</head>
+<body>
+<form runat="server">
+<asp:ScriptManager runat="server"></asp:ScriptManager>
+<div class="row">
+<div class="col-sm-10 col-sm-offset-1">
+ <div id="templatemo_top_section">
+  <div class="templatemo_container">
+    <div id="templatemo_header">
+      <div id="templatemo_logo_area">
+        <h2><a href="#" target="_parent"><span style=" font-size:x-large;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E@SY-LE@RN</span></a></h2>
+        <p></p>
+      </div>
+      <div id="templatemo_top_right">
+        <div id="templatemo_subscribe"></div>
+        <div id="templatemo_social">  <asp:LinkButton runat="server"  ID="btn_Logout" Text="Logout" ForeColor="Blue" Font-Size="Medium" onclick="btn_Logout_Click"></asp:LinkButton></div>
+       </div>     
+    </div>
+  </div>
+  <!-- End Of Container -->
+</div>
+<!-- End Of Top Section -->
+<div class="col-sm-12 height-auto" style="background-color:White">   
+      <table width="100%">
+       <tr>
+         <td align="left"><h3> <asp:Label runat="server" ID="label_showName"></asp:Label></h3></td>
+         <td align="right"><h3>
+          <asp:UpdatePanel ID="UpdatePanel1" runat="server" UpdateMode="Conditional">
+            <ContentTemplate>
+                <asp:Label ID="tbTimer" runat="server" Text=""></asp:Label> 
+                <asp:Label runat="server" ID="label_ShowTime"></asp:Label>
+                <asp:Timer ID="Timer1" runat="server" Interval="1000">
+                </asp:Timer>
+
+            </ContentTemplate>
+            <Triggers>
+                <asp:AsyncPostBackTrigger ControlID="Timer1" EventName="Tick" />
+            </Triggers>
+        </asp:UpdatePanel>
+        </h3></td>
+       </tr>
+      </table>      
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">           
+        </asp:ContentPlaceHolder>
+        <div class="space-10"></div>      
+  </div>
+  <!-- End Of Container  -->
+<!-- End Of Mid Section -->
+
+<!-- End Of Mid Section 2 -->
+
+<div class="col-sm-12" style="text-align:center;">
+<div class="space-16"></div>
+ Copyright © 2014 <a href="http://www.google.com/">******</a> | 
+  Designed by <a href="http://202.206.3.79/XX/index.aspx" target="_parent">EZ-LE@RN</a> </div>
+<!--  www.865171.cns by TemplateMo.com  -->
+    </div>
+</div>
+</form>
+</body>
+</html>

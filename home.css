@@ -1,0 +1,3660 @@
+﻿div.h_left {
+	float: left;
+	width: 198px;
+	margin - right: 5px
+}
+div.h_con {
+	float: left;
+	margin - left: 5px;
+	width: 540px;
+	min - height: 500px;
+	height: auto;
+	_height: 500px
+}
+div.h_right {
+	float: right;
+	width: 200px;
+	background: url(.. / images / r_bj_y.gif) repeat - y left top
+}
+div.h_right_bj {
+	clear: both;
+	background: url(.. / images / r_bj.gif) no - repeat left top
+}
+dl.left_th {
+	clear: both;
+	height: 30px;
+	line - height: 30px;
+	overflow: hidden;
+	background: url(.. / images / left_th_line.jpg) no - repeat left bottom
+}
+dl.left_th dd {
+	float: left;
+	font - size: 14px;
+	padding - left: 16px
+}
+dl.left_th dt {
+	float: right;
+	padding - right: 10px
+}
+dl.con_th {
+	clear: both;
+	height: 29px;
+	line - height: 29px;
+	overflow: hidden;
+	border - bottom: 1px solid#dadada
+}
+dl.con_th dt {
+	float: right;
+	padding - right: 10px
+}
+dl.con_th dd {
+	float: left;
+	font - size: 16px;
+	padding - left: 30px;
+	background: url(.. / images / th_arrow_b.gif) no - repeat 8px 8px
+}
+dl.right_th {
+	clear: both;
+	background: url(.. / images / blue_line_x.gif) repeat - x left bottom;
+	height: 30px;
+	line - height: 30px;
+	overflow: hidden;
+	margin: 0 auto;
+	width: 95 %
+}
+dl.right_th dt {
+	float: right;
+	padding - right: 10px
+}
+dl.right_th dd {
+	float: left;
+	font - size: 14px;
+	padding - left: 5px
+}
+dl.left_nav {
+	clear: both;
+	margin: 12px auto;
+	width: 88 % ;
+	line - height: 1.8em
+}
+dl.left_nav dt {
+	clear: both;
+	color: #666
+}
+dl.left_nav dt a {
+	color: #666
+}
+dl.left_nav dt a: hover {
+	color: #f60
+}
+dl.left_nav dd {
+	clear: both
+}
+dl.left_nav dd a {
+	margin - right: 5px
+}
+div.h_new_nav {
+	clear: both;
+	height: 29px;
+	line - height: 29px;
+	overflow: hidden;
+	border - bottom: 1px solid#dadada
+}
+div.h_new_nav dt {
+	float: left;
+	font - size: 14px;
+	text - indent: 30px;
+	background: url(.. / images / th_arrow_b.gif) no - repeat 5px 8px;
+	width: 475px
+}
+div.h_new_nav dd {
+	float: left;
+	margin: 0 2px;
+	background: url(.. / images / number.gif) no - repeat;
+	width: 10px;
+	line - height: 10px;
+	height: 10px;
+	text - align: center;
+	text - indent: -999999px;
+	cursor: pointer;
+	margin - top: 10px
+}
+div.h_new_nav dd.tab_light {
+	background - position: right top
+}
+div.h_new_box {
+	clear: both
+}.none {
+	display: none
+}
+div.h_new_box div {
+	clear: both
+}
+ul.h_new {
+	clear: both;
+	margin: 10px 0
+}
+ul.h_new li {
+	float: left;
+	width: 24.9 %
+}
+ul.h_new li span {
+	margin: 0 auto;
+	position: relative;
+	display: block;
+	width: 130px;
+	height: 130px;
+	overflow: hidden
+}
+ul.h_new li img {
+	width: 130px;
+	height: 130px;
+	overflow: hidden
+}
+p.black {
+	background: url(.. / images / black.png) repeat;
+	clear: both;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	height: 23px;
+	line - height: 23px;
+	text - align: center;
+	width: 100 % ;
+	padding: 1px 0;
+	color: white
+}
+a: hover p.black {
+	color: #fff900;
+	text - decoration: none
+}
+div.h_item {
+	clear: both;
+	margin: 10px 0
+}
+div.h_item_nav {
+	clear: both;
+	height: 33px;
+	line - height: 33px;
+	overflow: hidden;
+	background: url(.. / images / th_line.gif) repeat - x left bottom
+}
+div.h_item_nav dl {
+	border - left: 1px solid#dadada;
+	height: 100 %
+}
+div.h_item_nav dd {
+	float: left;
+	padding: 0 18px;
+	height: 100 % ;
+	background: url(.. / images / tab_gray_nav.png) repeat - x left - 33px;
+	font - size: 14px;
+	font - family: "寰蒋闆呴粦";
+	cursor: pointer;
+	border - right: 1px solid#dadada
+}
+div.h_item_nav dd a: hover {
+	text - decoration: none
+}
+div.h_item_nav dd.tab_light {
+	background - position: left top
+}
+div.h_item_nav dt {
+	float: right;
+	padding - top: 6px
+}
+input.h_all_btn {
+	color: white;
+	cursor: pointer;
+	border: 0;
+	background: url(.. / images / all_btn.gif) no - repeat;
+	width: 95px;
+	height: 19px;
+	line - height: 19px;
+	text - align: center
+}
+input.h_all_btn: hover {
+	background - position: left bottom
+}
+div.h_item_box {
+	clear: both
+}
+div.h_item_box div {
+	clear: both
+}
+dl.h_item dt {
+	float: left;
+	line - height: 2em;
+	width: 80 % ;
+	color: #666
+}
+dl.h_item dt p {
+	clear: both
+}
+dl.h_item dt p.t {
+	font - size: 14px
+}
+dl.h_item dt p.t span {
+	margin: 0 5px
+}
+dl.h_item dt p.t span a {
+	margin: 0 3px
+}
+dl.h_item img {
+	vertical - align: middle
+}
+dl.h_item {
+	clear: both;
+	padding: 14px 1 % ;
+	vertical - align: middle;
+	border - bottom: 1px solid#ebebeb
+}
+dl.h_item dd {
+	float: right;
+	width: 80px;
+	padding - top: 24px;
+	text - align: center
+}
+dl.h_item dd img {
+	width: 80px;
+	overflow: hidden
+}
+dl.h_item dd p {
+	clear: both;
+	margin: 3px 0
+}
+input.att_btn,
+input.att_btn_no,
+input.att_green_btn,
+input.att_btn_no2 {
+	border: 0;
+	cursor: pointer;
+	color: white;
+	background: url(.. / images / att_btn.gif) no - repeat;
+	width: 80px;
+	height: 22px;
+	line - height: 22px;
+	text - align: center
+}
+input.att_btn: hover {
+	background - position: left bottom
+}
+input.att_green_btn {
+	background: url(.. / images / att_btn_green.gif) no - repeat;
+	width: 74px;
+	height: 20px;
+	line - height: 20px
+}
+input.att_green_btn: hover {
+	background - position: left bottom
+}
+input.att_btn_no {
+	color: #888;
+	background - position: right top
+}
+input.att_btn_no: hover {
+	background - position: right bottom
+}
+input.att_btn_no2 {
+	color: #888;
+	background: url(.. / images / att_btn.jpg) no - repeat;
+	width: 88px;
+	height: 23px;
+	line - height: 23px
+}
+input.att_btn_no2: hover {
+	background - position: left bottom
+}.r_link {
+	float: left;
+	width: 52px;
+	padding - right: 4px;
+	text - align: right;
+	font - size: 12px;
+	font - weight: normal;
+	color: #717171
+}.light.r_link {
+	color: #f60
+}
+ul.right_news {
+	clear: both;
+	width: 92 % ;
+	margin: 8px auto
+}
+ul.right_news li {
+	clear: both;
+	line - height: 24px;
+	height: 24px;
+	overflow: hidden
+}
+ul.star_club {
+	clear: both;
+	margin: 8px 0 0 0
+}
+ul.star_club li {
+	float: left;
+	width: 33.3 % ; * width: 33.2 % ; * width: 33.2 % ;
+	height: 85px;
+	margin: 5px 0;
+	overflow: hidden;
+	text - align: center
+}
+ul.star_club li p {
+	clear: both;
+	line - height: 16px;
+	padding - top: 6px;
+	height: 16px;
+	overflow: hidden;
+	width: 50px;
+	margin: 0 auto
+}
+ul.star_club li img {
+	width: 48px
+}
+dl.r_work {
+	clear: both;
+	width: 90 % ;
+	margin: 14px auto
+}
+dl.r_work dt {
+	float: left;
+	width: 36px;
+	padding - top: 3px
+}
+dl.r_work dt img {
+	width: 36px;
+	overflow: hidden
+}
+dl.r_work dd {
+	float: right;
+	width: 76 % ;
+	line - height: 1.6em;
+	color: #777
+}
+dl.r_work dd p {
+	clear: both
+}
+dl.r_work dd.orange_text {
+	margin: 0 2px
+}
+div.ann_box {
+	clear: both
+}
+dl.ann_th {
+	clear: both;
+	line - height: 32px;
+	height: 32px;
+	background: url(.. / images / th_line_b.gif) repeat - x left bottom;
+	width: 98 % ;
+	margin: 6px auto;
+	overflow: hidden
+}
+dl.ann_th dt {
+	float: right;
+	padding - right: 10px
+}
+dl.ann_th dd {
+	float: left;
+	padding: 0 10px;
+	background: url(.. / images / th_line_blue.gif) repeat - x left bottom;
+	height: 100 % ;
+	font - size: 16px
+}
+dl.ann_th dd span {
+	display: block;
+	float: left;
+	background: url(.. / images / th_arrow.gif) no - repeat left 12px;
+	padding - left: 18px
+}
+dl.ann_box {
+	clear: both;
+	border - bottom: 1px solid#d1e6f5;
+	padding: 20px 1 % ;
+	width: 95 % ;
+	margin: 0 auto
+}
+dl.ann_box dt {
+	float: left;
+	width: 215px
+}
+dl.ann_box dt img {
+	width: 215px;
+	overflow: hidden
+}
+dl.ann_box dd {
+	float: right;
+	width: 73 % ;
+	line - height: 2em;
+	color: #666
+}
+dl.ann_box dd p {
+	clear: both
+}
+dl.ann_box dd a {
+	font - size: 14px
+}
+dl.ann_box dd p a {
+	font - size: 12px;
+	font - weight: normal
+}
+div.ask_box {
+	clear: both;
+	width: 920px;
+	margin: 10px auto
+}
+dl.ask_box {
+	clear: both;
+	line - height: 2em;
+	margin: 8px 0
+}
+dl.ask_box dt {
+	clear: both;
+	cursor: pointer;
+	padding - left: 20px;
+	background: url(.. / images / ask_arrow.png) no - repeat left 5px
+}
+dl.ask_box dd {
+	display: none;
+	clear: both;
+	padding - left: 20px
+}
+dl.dl_click dt {
+	background: url(.. / images / ask_arrow_l.png) no - repeat left 5px;
+	font - weight: bold;
+	color: #555
+}
+div.ask_answer {
+	clear: both;
+	width: 900px;
+	background: url(.. / images / ask_con.gif) repeat - y left top
+}
+div.ask_top {
+	clear: both;
+	background: url(.. / images / ask_top.jpg) no - repeat left top
+}
+div.ask_down {
+	clear: both;
+	background: url(.. / images / ask_down.png) no - repeat left bottom;
+	padding: 15px 15px 10px 15px;
+	line - height: 2em
+}
+div.ask_answer p {
+	clear: both
+}
+dl.tab_text_th {
+	clear: both;
+	line - height: 32px;
+	height: 32px;
+	overflow: hidden
+}
+dl.tab_text_th dd {
+	float: left;
+	font - size: 16px;
+	background: url(.. / images / th_arrow_b.gif) no - repeat 6px 10px;
+	padding - left: 25px
+}
+dl.tab_text_th dt {
+	float: right
+}
+ul.tab_box {
+	clear: both;
+	margin: 2px auto
+}
+ul.tab_box li {
+	float: left;
+	width: 318px;
+	border - right: 1px solid#dadada
+}
+ul.tab_box li.last {
+	border: 0;
+	width: 320px
+}
+dl.tad_th {
+	clear: both;
+	background: #f0f0f0;
+	height: 36px;
+	line - height: 36px;
+	overflow: hidden
+}
+dl.tad_th dd {
+	float: left;
+	font - size: 15px;
+	padding - left: 30px;
+	background: url(.. / images / th_arrow_green.gif) no - repeat 12px 14px
+}
+dl.tad_th dt {
+	float: right;
+	padding - right: 10px
+}
+table.tad_table {
+	color: #666;
+	clear: both;
+	width: 98 % ;
+	margin: 0 auto
+}
+table.tad_table td {
+	vertical - align: middle;
+	text - align: center;
+	padding: 4px 0;
+	line - height: 1.5em
+}
+table.tad_table td.l_text {
+	text - align: left
+}
+table.tad_table th {
+	font - weight: normal;
+	color: #777;
+	line - height: 30px;
+	height: 30px;
+	background: url(.. / images / line_x.gif) repeat - x left bottom
+}
+table.tad_table th.l_text {
+	text - align: left
+}
+table.tad_table2 td {
+	line - height: 1.4em;
+	padding: 1px 0
+}.tab_num {
+	font - size: 20px;
+	color: #666
+}.light.tab_num {
+	color: #f60
+}
+dl.tab_list {
+	clear: both
+}
+dl.tab_list dt {
+	float: left;
+	width: 32px
+}
+dl.tab_list dt img {
+	width: 32px;
+	overflow: hidden
+}
+dl.tab_list dd {
+	float: right;
+	width: 60 % ;
+	padding - top: 6px
+}
+div.i_right {
+	float: right;
+	width: 750px
+}
+div.i_left {
+	float: left;
+	width: 198px;
+	min - height: 500px;
+	height: auto;
+	_height: 500px
+}
+dl.my_about {
+	clear: both;
+	width: 170px;
+	margin: 15px auto 10px auto
+}
+dl.my_about dt {
+	clear: both
+}
+dl.my_about dt img {
+	width: 170px;
+	overflow: hidden
+}
+dl.my_about dd {
+	clear: both;
+	line - height: 1.6em;
+	text - align: center;
+	padding: 5px 0 0 0;
+	font - size: 22px
+}
+ul.my_about {
+	clear: both;
+	width: 180px;
+	margin: 0 auto 20px auto
+}
+ul.my_about li {
+	float: left;
+	width: 33.3 % ; * width: 33.2 % ;
+	text - align: center;
+	background: url(.. / images / blue_line_y.gif) repeat - y right top;
+	overflow: hidden;
+	zoom: 1
+}
+ul.my_about li.last {
+	background: 0
+}
+ul.my_about li dl {
+	clear: both;
+	text - align: center;
+	color: #666
+}
+ul.my_about li dt {
+	clear: both;
+	line - height: 1.5em;
+	font - size: 16px;
+	font - weight: bold
+}
+ul.my_about li dd {
+	clear: both
+}
+ul.left_news {
+	clear: both;
+	width: 88 % ;
+	margin: 8px auto
+}
+ul.left_news li {
+	clear: both;
+	line - height: 24px;
+	height: 24px;
+	overflow: hidden
+}
+dl.r_my_th {
+	clear: both
+}
+dl.r_my_th dt {
+	float: right;
+	line - height: 1.8em
+}
+dl.r_my_th dd {
+	float: left;
+	font - size: 22px;
+	line - height: 1.8em
+}
+dl.my_b_th {
+	clear: both;
+	background: #ebebeb;
+	height: 30px;
+	line - height: 30px;
+	overflow: hidden
+}
+dl.my_b_th dt {
+	float: right;
+	padding - right: 10px
+}
+dl.my_b_th dd {
+	float: left;
+	color: white;
+	font - size: 14px;
+	padding: 0 40px 0 30px;
+	background: #2477ae url(.. / images / text_th.gif) no - repeat right top
+}
+table.my_table {
+	clear: both;
+	margin: 8px 0;
+	width: 100 % ;
+	color: #7a7a7a
+}
+table.my_table td {
+	vertical - align: middle;
+	line - height: 2em;
+	padding: 2px 5px
+}
+ul.att_nav {
+	clear: both;
+	width: 94 % ;
+	margin: 8px auto
+}
+ul.att_nav li {
+	clear: both;
+	height: 24px;
+	line - height: 24px;
+	margin: 3px 0;
+	cursor: pointer;
+	text - indent: 12px
+}
+ul.att_nav li a {
+	display: block
+}
+ul.att_nav li.li_light {
+	background: #6cb4dc url(.. / images / left_arrow.gif) no - repeat 90 % 8px;
+	font - weight: bold;
+	color: white
+}
+ul.att_nav li.li_light a {
+	color: white
+}
+ul.att_nav li.li_light a: hover {
+	color: #ff9;
+	text - decoration: none
+}
+dl.att_about {
+	clear: both;
+	width: 112px
+}
+dl.att_about dt img {
+	width: 112px
+}
+ul.hot_tag {
+	clear: both;
+	width: 88 % ;
+	margin: 8px auto
+}
+ul.hot_tag li {
+	clear: both;
+	line - height: 2em;
+	color: #d8e5eb
+}
+ul.hot_tag li a {
+	margin: 0 5px
+}
+ul.hot_tag li a.first {
+	margin - left: 0
+}
+div.att_box {
+	clear: both;
+	margin: 8px 0
+}
+dl.att_box {
+	clear: both
+}
+dl.att_box dt {
+	clear: both;
+	line - height: 2em;
+	color: #777
+}
+dl.att_box dt a {
+	font - size: 14px
+}
+dl.att_box dt.float_r,
+dl.att_box dt.float_r a {
+	font - size: 12px
+}
+dl.att_box dt.orange_text {
+	margin - right: 8px;
+	color: #f90
+}] dl.att_box dd {
+	clear: both
+}
+dl.att_box dd p {
+	clear: both;
+	line - height: 1.8em;
+	color: #666
+}
+dl.att_box dd p.green_link {
+	margin: 1px 0;
+	font - size: 14px;
+	font - weight: bold
+}
+dl.att_tool {
+	position: relative;
+	clear: both;
+	margin: 5px 0 0 0
+}
+dl.att_tool dt {
+	float: left
+}
+dl.att_tool dd {
+	float: right
+}
+ul.att_tool li {
+	padding: 0 6px 0 4px;
+	cursor: pointer;
+	line - height: 2em;
+	float: left;
+	margin - left: 10px
+}
+ul.att_tool {
+	float: right
+}
+span.option {
+	display: inline - block;
+	background: url(.. / images / option.gif) no - repeat right center;
+	padding - right: 12px
+}
+ul.att_tool li.hover {
+	background: #6cb4dc;
+	color: white
+}
+ul.att_tool li.hover span a {
+	color: white
+}
+ul.att_tool li.hover span.option {
+	background: url(.. / images / option_w.gif) no - repeat right center
+}
+div.att_hide {
+	cursor: auto;
+	display: none;
+	clear: both;
+	width: 540px;
+	position: absolute;
+	right: 0;
+	top: 22px
+}
+table.att_table {
+	color: #444;
+	clear: both;
+	width: 100 % ;
+	border: 1px solid#6cb4dc;
+	background: #f1fbff
+}
+table.att_table th {
+	color: white;
+	font - weight: normal;
+	height: 28px;
+	line - height: 28px;
+	background: #6cb4dc
+}
+table.att_table td {
+	vertical - align: middle;
+	padding: 5px 2px;
+	text - align: center;
+	line - height: 1.5em
+}.yellow_num {
+	display: inline - block;
+	background: url(.. / images / yellow_num.jpg) no - repeat;
+	width: 32px;
+	line - height: 32px;
+	height: 32px;
+	font - size: 20px;
+	color: white
+}
+dl.att_list {
+	clear: both
+}
+dl.att_list dt {
+	float: left;
+	width: 32px
+}
+dl.att_list dt img {
+	width: 32px;
+	overflow: hidden
+}
+dl.att_list dd {
+	float: right;
+	clear: none;
+	padding - top: 8px;
+	text - align: left;
+	width: 70 %
+}.head {
+	display: block;
+	float: left;
+	background: url(.. / images / head.gif) no - repeat left 5px;
+	padding - left: 20px;
+	margin - right: 10px
+}.mes {
+	display: block;
+	float: left;
+	background: url(.. / images / mes.gif) no - repeat left 5px;
+	padding - left: 20px
+}.head a,
+.mes a {
+	color: #666
+}.head a: hover,
+.mes a: hover {
+	color: #f60
+}
+div.att_bbs {
+	clear: both;
+	margin: 0 0 8px 0;
+	background: #f5f5f5
+}
+span.bbs_arrow {
+	display: block;
+	clear: both;
+	background: white url(.. / images / bbs_arrow.gif) no - repeat 8 % top;
+	height: 6px;
+	overflow: hidden;
+	line - height: 6px
+}
+table.bbs_table {
+	clear: both;
+	width: 97 % ;
+	margin: 8px auto;
+	vertical - align: middle
+}
+table.bbs_table td {
+	padding: 0 5px;
+	vertical - align: middle;
+	line - height: 1.6em
+}
+table.bbs_table img {
+	width: 34px;
+	overflow: hidden
+}
+table.bbs_table a {
+	margin: 0 3px
+}
+dl.att_bbs {
+	clear: both;
+	vertical - align: middle;
+	margin: 8px auto 14px auto;
+	width: 95 %
+}
+dl.att_bbs dt {
+	float: left
+}
+dl.att_bbs dd {
+	float: right
+}
+input.att_bbs_text {
+	vertical - align: middle;
+	padding: 4px 5px;
+	width: 440px;
+	height: 18px;
+	line - height: 18px;
+	font - size: 14px;
+	color: #666
+}
+input.bbs_btn {
+	border: 0;
+	cursor: pointer;
+	text - align: center;
+	color: white;
+	font - weight: bold;
+	font - size: 14px;
+	background: url(.. / images / bbs_btn.gif) no - repeat;
+	width: 50px;
+	height: 27px;
+	line - height: 27px
+}
+input.bbs_btn: hover {
+	background - position: left bottom
+}
+ul.loading {
+	clear: both;
+	margin: 50px 0;
+	text - align: center;
+	vertical - align: middle;
+	line - height: 2em
+}
+ul.loading li img {
+	vertical - align: middle;
+	margin: 0 5px
+}
+ul.loading li {
+	font - size: 14px;
+	color: #555
+}.h_one {
+	clear: both;
+	margin: 8px 0
+}
+div.banner {
+	clear: both;
+	margin: 0;
+	text - align: center
+}
+div.college_nav {
+	clear: both;
+	border - left: 1px solid#2370b5;
+	border - right: 1px solid#2370b5;
+	background: url(.. / images / nav_bj.jpg) repeat - x left top;
+	height: 32px;
+	line - height: 32px;
+	font - size: 14px;
+	color: white;
+	text - align: center
+}
+div.college_nav a {
+	color: white
+}
+div.college_nav a: hover {
+	text - decoration: none;
+	color: #ff9
+}
+ul.college_nav li {
+	float: left;
+	height: 100 % ;
+	background: url(.. / images / nav_bj.jpg) no - repeat right - 32px;
+	width: 24.9 %
+}
+ul.college_nav li.last {
+	background: 0
+}
+ul.act_time {
+	clear: both;
+	margin: 10px auto;
+	width: 95 %
+}
+ul.act_time li,
+ul.act_rec li {
+	clear: both;
+	line - height: 24px;
+	height: 24px;
+	overflow: hidden;
+	background: url(.. / images / round_arrow.gif) no - repeat left 10px;
+	padding - left: 15px
+}
+ul.act_time span.float_r {
+	width: 325px;
+	text - align: left;
+	color: #777
+}
+ul.act_time span.orange_text {
+	float: right
+}
+ul.act_rec {
+	clear: both;
+	width: 95 % ;
+	margin: 10px auto
+}
+div.act_list {
+	float: left;
+	background: #f7f7f7;
+	height: 195px;
+	overflow: hidden;
+	width: 49 %
+}
+dl.text_th {
+	clear: both;
+	line - height: 33px;
+	height: 33px;
+	overflow: hidden;
+	background: white url(.. / images / th_line_b.gif) repeat - x left bottom
+}
+dl.text_th dt {
+	float: right;
+	padding - right: 10px
+}
+dl.text_th dd {
+	float: left;
+	font - size: 15px;
+	padding: 0 6px;
+	height: 100 % ;
+	background: url(.. / images / th_line_blue.gif) repeat - x left bottom
+}
+div.div_center {
+	clear: both;
+	text - align: center;
+	margin: 10px 0
+}
+input.guide_btn {
+	border: 0;
+	cursor: pointer;
+	text - align: center;
+	background: url(.. / images / guide_btn.png) no - repeat;
+	width: 185px;
+	height: 42px;
+	line - height: 42px
+}
+input.guide_btn: hover {
+	background - position: left bottom
+}
+ul.r_ask {
+	clear: both;
+	line - height: 2em;
+	width: 90 % ;
+	margin: 8px auto
+}
+ul.r_ask li {
+	clear: both
+}
+dl.r_mes {
+	clear: both;
+	margin: 8px auto;
+	width: 90 %
+}
+dl.r_mes dt {
+	float: left;
+	width: 55px
+}
+dl.r_mes dt img {
+	width: 48px
+}
+dl.r_mes dd {
+	float: right;
+	width: 64 % ;
+	line - height: 2em
+}
+ul.r_mes {
+	clear: both;
+	width: 90 % ;
+	margin: 8px auto
+}
+ul.r_mes li {
+	clear: both;
+	line - height: 2em
+}
+dl.site_th {
+	clear: both;
+	line - height: 30px
+}
+dl.site_th dd {
+	float: left
+}
+dl.site_th dt {
+	float: right
+}
+dl.site_th dd a,
+dl.site_th dd span {
+	margin: 0 5px
+}
+dl.act_wen {
+	clear: both;
+	margin: 10px 0
+}
+dl.act_wen dt {
+	clear: both;
+	margin - bottom: 14px;
+	background: url(.. / images / line_x.gif) repeat - x left bottom;
+	padding: 0 10px 14px 10px
+}
+dl.act_wen p {
+	clear: both;
+	line - height: 2em
+}
+dl.act_wen dd {
+	clear: both;
+	margin - top: 14px;
+	padding: 0 10px
+}
+ul.act_club {
+	clear: both;
+	margin: 0
+}
+ul.act_club li {
+	float: left;
+	width: 9 % ;
+	text - align: center;
+	height: 80px;
+	overflow: hidden;
+	margin: 5px 0
+}
+ul.act_club li img {
+	width: 48px
+}
+ul.act_club li p {
+	clear: both;
+	width: 50px;
+	padding - top: 6px;
+	line - height: 16px;
+	height: 16px;
+	margin: 0 auto;
+	overflow: hidden
+}
+table.act_mes_table {
+	clear: both;
+	margin: 10px 0 10px 10px
+}
+table.act_mes_table td {
+	vertical - align: middle;
+	padding: 5px 3px
+}
+table.act_mes_table td.r_text {
+	text - align: right
+}
+input.mes_text {
+	padding: 2px 5px;
+	margin - right: 15px;
+	width: 170px;
+	line - height: 16px;
+	height: 16px;
+	color: #555
+}
+input.fill_ok_btn {
+	border: 0;
+	cursor: pointer;
+	color: white;
+	font - weight: bold;
+	background: url(.. / images / club / green_btn.gif) no - repeat;
+	width: 86px;
+	height: 26px;
+	line - height: 26px
+}
+input.fill_ok_btn: hover {
+	background - position: left bottom
+}
+div.d_left {
+	float: left;
+	width: 660px
+}
+div.d_right {
+	float: right;
+	width: 283px;
+	min - height: 500px;
+	height: auto;
+	_height: 500px
+}
+dl.dic_about {
+	clear: both;
+	margin - bottom: 8px
+}
+dl.dic_about dt {
+	clear: both;
+	line - height: 2em;
+	font - size: 14px;
+	font - weight: bold
+}
+dl.dic_about dd {
+	clear: both;
+	margin: 8px 0 0 0
+}
+dl.dic_tool {
+	clear: both;
+	margin: 8px 0;
+	line - height: 2em;
+	vertical - align: middle
+}
+dl.dic_tool dt {
+	float: left
+}
+dl.dic_tool dd {
+	float: right
+}
+dl.dic_tool.gray_text {
+	padding: 0 5px
+}
+dl.dic_tool input {
+	vertical - align: middle
+}
+div.dic_tab {
+	clear: both;
+	margin: 8px 0
+}
+div.dic_nav {
+	clear: both;
+	height: 32px;
+	line - height: 32px;
+	overflow: hidden;
+	background: #dbecf6
+}
+div.dic_nav dt {
+	float: right;
+	padding - right: 10px
+}
+div.dic_nav dd {
+	font - family: "寰蒋闆呴粦";
+	float: left;
+	padding: 0 18px;
+	height: 100 % ;
+	border - right: 1px solid white;
+	cursor: pointer;
+	font - size: 14px
+}
+div.dic_nav dd.tab_light a {
+	color: white
+}
+div.dic_nav dd.tab_light {
+	background: #6cb4dc;
+	color: white
+}
+div.dic_box {
+	clear: both
+}
+div.dic_box div {
+	clear: both
+}
+span.dic_box_bj {
+	clear: both;
+	display: block;
+	background: #fff;
+	line - height: 22px;
+	font - size: 14px;
+	border: 1px solid#d1e3ee;
+	padding: 5px 5px 2px 5px;
+	color: #000
+}
+dl.dic_box {
+	clear: both;
+	margin: 125px 0;
+	text - align: center
+}
+dl.dic_box dd {
+	clear: both
+}
+input.dic_btn {
+	border: 0;
+	cursor: pointer;
+	background: url(.. / images / dictation_btn.jpg) no - repeat;
+	width: 176px;
+	height: 47px;
+	line - height: 47px;
+	text - align: center
+}
+input.dic_btn: hover {
+	background - position: left bottom
+}
+dl.dic_d {
+	clear: both;
+	line - height: 2em;
+	vertical - align: middle;
+	margin: 8px 0
+}
+dl.dic_d dt {
+	float: left
+}
+dl.dic_d input {
+	vertical - align: middle
+}
+dl.dic_d dd {
+	float: right
+}
+span.dic_wen {
+	clear: both;
+	display: block;
+	width: 95 % ;
+	margin: 15px auto
+}
+span.dic_wen p {
+	clear: both;
+	line - height: 1.8em;
+	margin: 5px 0
+}.green_text_bj {
+	background: #59aa53;
+	color: white;
+	padding: 0 6px
+}.red_text_bj {
+	color: white;
+	background: #ea4545;
+	padding: 0 6px
+}.btn_center {
+	display: block;
+	clear: both;
+	margin: 10px 0;
+	text - align: center
+}
+input.dic_orange_btn,
+input.dic_green_btn {
+	color: white;
+	font - weight: bold;
+	border: 0;
+	background: url(.. / images / dic_btn.gif) no - repeat;
+	height: 27px;
+	line - height: 27px;
+	cursor: pointer;
+	width: 117px;
+	margin: 0 8px
+}
+input.dic_orange_btn: hover {
+	background - position: left bottom
+}
+input.dic_green_btn {
+	background - position: right top
+}
+input.dic_green_btn: hover {
+	background - position: right bottom
+}
+dl.dic_th {
+	clear: both;
+	background: #dbecf6;
+	height: 32px;
+	line - height: 32px;
+	overflow: hidden
+}
+dl.dic_th dt {
+	float: right;
+	padding - right: 10px
+}
+dl.dic_th dd {
+	float: left;
+	color: white;
+	font - size: 14px;
+	padding: 0 15px;
+	height: 100 % ;
+	background: #6cb4dc
+}
+ul.dic_club,
+ul.club_list {
+	clear: both;
+	margin: 8px 0
+}
+ul.dic_club li,
+ul.club_list li {
+	margin: 8px 0;
+	overflow: hidden;
+	float: left;
+	width: 9.9 % ;
+	text - align: center;
+	height: 100px
+}
+ul.dic_club li img,
+ul.club_list li img {
+	width: 48px
+}
+ul.dic_club li p {
+	clear: both;
+	color: #666;
+	line - height: 1.7em;
+	padding - top: 3px
+}
+ul.dic_club li p.orange_b {
+	font - size: 15px;
+	font - weight: bold
+}
+ul.club_list li {
+	height: 80px
+}
+ul.club_list li p {
+	clear: both;
+	line - height: 16px;
+	height: 16px;
+	padding - top: 8px;
+	margin: 0 auto;
+	width: 55px
+}
+dl.dic_bbs {
+	clear: both;
+	padding: 15px 1 % ;
+	border - bottom: 1px solid#ebebeb
+}
+dl.dic_bbs dt {
+	float: left;
+	width: 55px
+}
+dl.dic_bbs dt img {
+	width: 48px
+}
+dl.dic_bbs dd {
+	float: right;
+	width: 89 % ;
+	color: #666;
+	line - height: 1.5em
+}
+dl.dic_bbs dd.orange_text {
+	padding - left: 15px
+}
+dl.dic_app {
+	clear: both;
+	margin: 8px 0
+}
+dl.dic_app dt {
+	clear: both;
+	margin: 8px 0 0 0;
+	text - align: right
+}
+dl.dic_app dd {
+	clear: both;
+	margin: 0 8px 0 0
+}.dic_textarea {
+	width: 635px;
+	padding: 10px;
+	height: 70px;
+	line - height: 2em;
+	color: #666
+}
+dl.r_dic_num {
+	vertical - align: middle;
+	clear: both;
+	margin: 10px auto;
+	width: 270px
+}
+dl.r_dic_num dt {
+	clear: both;
+	padding - bottom: 6px;
+	line - height: 2em;
+	text - align: center
+}
+dl.r_dic_num dd {
+	clear: both;
+	height: 31px
+}
+input.dic_l_btn,
+input.dic_r_btn {
+	border: 0;
+	cursor: pointer;
+	color: white;
+	width: 135px;
+	height: 31px;
+	line - height: 31px;
+	text - align: center;
+	cursor: pointer;
+	background: url(.. / images / dic_num.gif) no - repeat left top
+}
+input.dic_l_btn: hover {
+	background - position: left bottom
+}
+input.dic_r_btn {
+	background - position: right top
+}
+input.dic_r_btn: hover {
+	background - position: right bottom
+}
+ul.r_dic_club {
+	clear: both;
+	margin: 8px 0
+}
+ul.r_dic_club.red_big {
+	font - size: 24px;
+	padding: 0 2px;
+	vertical - align: middle
+}
+ul.r_dic_club li {
+	float: left;
+	width: 24.9 % ;
+	text - align: center;
+	height: 110px;
+	overflow: hidden;
+	margin: 3px 0
+}
+ul.r_dic_club li img {
+	width: 48px
+}
+ul.r_dic_club li a p {
+	clear: both;
+	line - height: 16px;
+	height: 16px;
+	overflow: hidden;
+	padding: 6px 0;
+	width: 55 % ;
+	margin: 0 auto
+}
+ul.r_dic_club li p {
+	clear: both;
+	text - align: center;
+	line - height: 1.8em
+}
+div.dic_l_nav {
+	clear: both
+}
+div.dic_l_nav dl.left_nav {
+	line - height: 2em
+}
+div.dic_l_nav dl.left_nav dd a {
+	margin: 0;
+	float: left;
+	width: 49.9 %
+}
+dl.i_site {
+	clear: both;
+	line - height: 30px;
+	height: 30px;
+	overflow: hidden;
+	background: url(.. / images / line_x.gif) repeat - x left bottom
+}
+dl.i_site dt {
+	float: right;
+	padding - right: 10px
+}
+dl.i_site dd {
+	float: left
+}
+dl.i_site dd a,
+dl.i_site dd span {
+	margin: 0 5px
+}
+dl.dic_list {
+	clear: both;
+	margin: 0;
+	padding: 18px 5px;
+	background: url(.. / images / line_x.gif) repeat - x left bottom
+}
+dl.dic_list dt {
+	float: left;
+	width: 100px
+}
+dl.dic_list dt img {
+	width: 100px;
+	overflow: hidden
+}
+dl.dic_list dd {
+	padding: 8px 0 0 0;
+	float: right;
+	width: 78 % ;
+	line - height: 1.9em;
+	color: #666
+}
+dl.dic_list dd a {
+	font - size: 14px;
+	font - weight: bold
+}
+dl.dic_list dd p {
+	clear: both;
+	margin: 8px 0
+}
+dl.dic_list_d {
+	clear: both;
+	padding: 10px 5px;
+	background: url(.. / images / line_x.gif) repeat - x left bottom
+}
+dl.dic_list_d dt {
+	clear: both;
+	line - height: 1.8em;
+	font - size: 14px;
+	font - weight: bold
+}
+dl.dic_list_d dd {
+	clear: both;
+	opacity: #666;
+	line - height: 1.8em
+}
+dl.dic_list_d dd p {
+	clear: both
+}
+ul.r_dic_club_s {
+	margin: 8px 0
+}
+ul.r_dic_club_s li {
+	width: 33.3 % ; * width: 33.2 %
+}
+div.search_list dl.h_item {
+	padding: 10px 1 %
+}
+div.search_list dl.h_item dt {
+	width: 86 %
+}
+div.search_list dl.h_item dd {
+	padding: 4px 0 0 0
+}
+div.search_list dl.h_item dd.btn {
+	padding - top: 35px
+}
+div.w_left {
+	float: left;
+	width: 750px
+}
+div.w_right {
+	min - height: 500px;
+	height: auto;
+	_height: 500px
+}
+dl.tab_th {
+	clear: both;
+	border - left: 1px solid#dadada;
+	background: url(.. / images / th_line.gif) repeat - x left bottom;
+	overflow: hidden;
+	height: 33px;
+	line - height: 33px
+}
+dl.tab_th dt {
+	float: right
+}
+dl.tab_th dd {
+	float: left;
+	font - size: 14px;
+	padding: 0 20px;
+	cursor: pointer;
+	background: url(.. / images / tab_gray_nav.png) repeat - x left - 33px;
+	height: 100 % ;
+	border - right: 1px solid#dadada
+}
+dl.tab_th dd.tab_light {
+	background - position: left top
+}
+table.who_table {
+	margin: 10px 0;
+	clear: both;
+	width: 100 %
+}
+table.who_table td {
+	border - bottom: 1px solid#ebebeb;
+	line - height: 30px;
+	padding: 0 3px;
+	text - align: center;
+	vertical - align: middle
+}
+table.who_table td.l_text {
+	text - align: left
+}
+table.who_table td.l_text a {
+	margin: 0 6px
+}
+ul.time_club {
+	margin - bottom: 18px
+}
+ul.time_club li {
+	height: 105px;
+	color: #666
+}
+input.set_btn {
+	border: 0;
+	cursor: pointer;
+	background: url(.. / images / set_btn.gif) no - repeat;
+	width: 184px;
+	height: 34px;
+	line - height: 34px;
+	text - align: center;
+	text - align: center
+}
+input.set_btn: hover {
+	background - position: left bottom
+}
+div.day_about {
+	clear: both;
+	margin - bottom: 8px;
+	border: 1px solid#e2e2e2;
+	background: #f6f6f6
+}
+div.day_about_c {
+	clear: both;
+	width: 96 % ;
+	margin: 15px auto
+}
+div.day_about_l {
+	float: left;
+	width: 600px
+}
+div.day_about_r {
+	float: right;
+	width: 290px
+}
+ul.day_video {
+	clear: both
+}
+ul.day_video li.pic {
+	float: left;
+	width: 250px
+}
+ul.day_video li.text {
+	float: right;
+	width: 55 % ;
+	line - height: 2em
+}
+dl.day_video {
+	clear: both;
+	padding - bottom: 12px;
+	border - bottom: 1px solid#ddd
+}
+dl.day_video dt {
+	clear: both;
+	line - height: 1.8em;
+	font - size: 14px
+}
+dl.day_video dt.orange_text {
+	padding - left: 15px;
+	font - size: 10px;
+	font - weight: normal
+}
+dl.day_video dd {
+	clear: both;
+	line - height: 1.4em;
+	color: #090;
+	font - size: 18px
+}
+dl.day_share {
+	clear: both;
+	margin: 8px 0;
+	line - height: 16px
+}
+dl.day_share dt {
+	float: left
+}
+dl.day_share dd {
+	float: right;
+	text - align: right
+}
+dl.day_video_d {
+	clear: both;
+	margin: 8px 0
+}
+dl.day_video_d dd {
+	clear: both;
+	padding: 10px 0;
+	line - height: 2em
+}
+dl.day_video_d dt {
+	clear: both
+}
+dl.day_about_r {
+	clear: both;
+	text - align: center
+}
+dl.day_about_r dd {
+	clear: both;
+	text - align: left;
+	padding: 0 6px
+}
+dl.day_about_r dd p {
+	line - height: 1.6em
+}
+dl.day_about_r p {
+	clear: both;
+	line - height: 2em
+}
+dl.day_about_r dt {
+	padding - top: 10px;
+	clear: both
+}
+dl.day_about_r dt img {
+	border: 1px solid#ccc
+}
+dl.day_about_r dt p {
+	padding - top: 8px;
+	line - height: 1.5em;
+	font - weight: bold
+}
+input.day_orange,
+input.day_green,
+input.day_blue,
+input.day_red,
+input.video_btn,
+input.video_btn_s {
+	background: url(.. / images / date_btn.png) no - repeat - 69px top;
+	width: 80px;
+	line - height: 29px;
+	height: 29px;
+	text - align: center;
+	color: white;
+	font - size: 14px;
+	cursor: pointer;
+	border: 0
+}
+input.day_orange: hover {
+	background - position: -69px - 29px
+}
+input.day_green {
+	background - position: -155px top
+}
+input.day_green: hover {
+	background - position: -155px - 29px
+}
+input.day_blue {
+	background - position: -240px top
+}
+input.day_blue: hover {
+	background - position: -240px - 29px
+}
+input.video_btn_s,
+input.video_btn {
+	background - position: left top;
+	width: 66px;
+	height: 33px;
+	line - height: 33px;
+	font - size: 15px
+}
+input.video_btn {
+	background - position: right top;
+	width: 92px
+}
+input.video_btn: hover {
+	background - position: right - 33px
+}
+input.video_btn_s: hover {
+	background - position: left - 33px
+}
+input.day_red {
+	background - position: -328px top
+}
+input.day_red: hover {
+	background - position: -328px - 29px
+}
+dl.day_tool {
+	clear: both;
+	margin: 8px 0;
+	line - height: 1.8em
+}
+dl.day_tool dt {
+	float: right;
+	vertical - align: middle
+}
+dl.day_tool dd {
+	float: left
+}
+ul.day_tool {
+	float: left;
+	border: 1px solid#ffd89e;
+	border - right: 0
+}
+ul.day_tool li {
+	float: left;
+	padding: 0 20px;
+	border - right: 1px solid#ffd89e
+}
+ul.day_tool li.light {
+	background: #ffefd8 url(.. / images / t_arrow.gif) no - repeat 90 % center;
+	cursor: pointer;
+	color: #f9a838
+}
+ul.day_tool li.light a {
+	color: #f9a838
+}
+dl.day_tool dt em,
+dl.day_tool dt b,
+dl.day_tool dt a {
+	padding: 2px 7px;
+	margin: 0;
+	cursor: pointer;
+	font - style: normal
+}
+dl.day_tool dt b {
+	color: white;
+	background: #f60
+}
+input.gray_btn {
+	cursor: pointer;
+	border: 0;
+	text - align: center;
+	color: white;
+	background: url(.. / images / club / gray_btn.gif) no - repeat;
+	width: 43px;
+	height: 20px;
+	line - height: 20px
+}
+input.gray_btn: hover {
+	background - position: left bottom
+}
+input.page_text {
+	margin: 0 3px;
+	vertical - align: middle;
+	line - height: 18px;
+	height: 18px;
+	width: 45px;
+	text - align: center;
+	color: #444
+}
+div.day_left {
+	float: left;
+	width: 49.5 %
+}
+div.day_right {
+	float: right;
+	width: 49.5 %
+}
+div.day_box {
+	clear: both;
+	margin - bottom: 10px;
+	border: 1px solid#a1d198;
+	background: #fafff4
+}
+div.day_box dl.day_share {
+	clear: both;
+	width: 90 % ;
+	margin: 10px auto;
+	padding: 5px 1 %
+}
+dl.day_box {
+	clear: both;
+	width: 92 % ;
+	margin: 10px auto;
+	padding: 0 0 10px 0;
+	border - bottom: 1px solid#e1e5db
+}
+dl.day_box dt {
+	clear: both;
+	line - height: 1.6em;
+	font - size: 16px
+}
+dl.day_box dd {
+	clear: both;
+	padding: 8px 0
+}
+dl.day_box a: hover {
+	text - decoration: none
+}
+dl.date_text {
+	clear: both;
+	line - height: 25px;
+	height: 25px
+}
+dl.date_text dd {
+	float: left;
+	color: white;
+	font - size: 14px;
+	font - weight: bold;
+	background: #a2cf47;
+	padding: 0 15px
+}
+dl.day_ci,
+dl.day_sent {
+	clear: both;
+	width: 95 % ;
+	margin: 10px auto 15px auto;
+	padding - bottom: 10px;
+	border - bottom: 1px solid#ddd
+}
+dl.day_ci dt {
+	clear: both;
+	line - height: 1.5em;
+	font - size: 18px
+}
+dl.day_ci dt input {
+	font - size: 18px
+}
+dl.day_ci dd {
+	overflow: hidden;
+	zoom: 1;
+	clear: both;
+	margin: 15px 0;
+	vertical - align: middle
+}
+dl.day_ci input {
+	vertical - align: middle
+}
+dl.day_ci dd label {
+	float: left;
+	width: 24.9 % ;
+	vertical - align: middle;
+	line - height: 2em
+}
+dl.day_ci dd b {
+	font - size: 14px
+}.input_text_line {
+	border: 0;
+	color: #666;
+	background: 0;
+	border - bottom: 2px solid#626262;
+	width: 80px;
+	padding: 0 3px;
+	vertical - align: middle
+}
+dl.day_box_ci dt {
+	clear: both;
+	line - height: 1.4em;
+	font - size: 14px
+}
+dl.day_box_ci dt input {
+	font - size: 14px
+}
+ul.answer {
+	clear: both;
+	display: none;
+	margin: 8px 0;
+	line - height: 2em
+}
+ul.answer li {
+	clear: both
+}
+dl.day_sent dt {
+	float: left;
+	width: 30px;
+	text - align: right;
+	padding - top: 4px
+}
+dl.day_sent dd {
+	font - size: 18px;
+	float: right;
+	width: 91 % ;
+	line - height: 1.3em
+}
+dl.day_sent dd p,
+dl.day_sent ul {
+	font - size: 12px;
+	font - weight: normal
+}
+dl.day_sent ul li {
+	clear: both;
+	margin: 15px 0;
+	overflow: hidden;
+	zoom: 1
+}
+ul.day_box {
+	clear: both;
+	margin - bottom: 8px
+}
+ul.day_box li.pic {
+	float: left;
+	width: 20px;
+	padding - top: 4px;
+	text - align: right
+}
+ul.day_box li.text {
+	float: right;
+	width: 92 % ;
+	line - height: 1.3em;
+	font - size: 18px
+}
+ul.day_box li.text p {
+	font - size: 12px;
+	font - weight: normal
+}
+dl.day_sent_c {
+	clear: both;
+	margin: 0 0 15px 10px
+}
+dl.day_sent_c dt {
+	clear: both;
+	font - size: 15px;
+	line - height: 2em
+}
+dl.day_sent_c dd {
+	clear: both;
+	height: 44px;
+	margin: 10px 0
+}
+dl.day_sent_bar {
+	clear: both;
+	margin: 15px 0 0 10px
+}
+dl.day_sent_bar dd {
+	clear: both;
+	line - height: 1.5em;
+	font - size: 18px
+}
+dl.day_sent_bar dd p {
+	clear: both;
+	margin: 10px 0
+}
+dl.day_sent_bar dt {
+	clear: both;
+	background: #cee7f0;
+	height: 4px;
+	line - height: 4px;
+	overflow: hidden;
+	font - size: 0;
+	width: 72 % ;
+	margin - bottom: 15px
+}
+dl.day_sent_bar dt span {
+	background: #349bd0;
+	display: block;
+	float: left;
+	height: 4px;
+	line - height: 40px;
+	overflow: hidden;
+	font - size: 0
+}
+span.bar_100 {
+	width: 100 %
+}
+span.bar_90 {
+	width: 90 %
+}
+span.bar_80 {
+	width: 80 %
+}
+span.bar_70 {
+	width: 70 %
+}
+span.bar_60 {
+	width: 60 %
+}
+span.bar_50 {
+	width: 50 %
+}
+span.bar_40 {
+	width: 40 %
+}
+span.bar_30 {
+	width: 30 %
+}
+span.bar_20 {
+	width: 20 %
+}
+span.bar_10 {
+	width: 10 %
+}
+span.bar_0 {
+	width: 0
+}
+input.day_input_text {
+	background: url(.. / images / date_text.jpg) no - repeat;
+	width: 412px;
+	padding: 15px 10px;
+	line - height: 20px;
+	height: 20px;
+	border: 0;
+	font - size: 14px;
+	color: #555
+}
+dl.day_talk {
+	border - bottom: 1px solid#ddd;
+	clear: both;
+	width: 90 % ;
+	padding: 0 3 % 30px 3 % ;
+	margin: 10px auto 15px auto
+}
+dl.day_talk dt {
+	font - weight: normal;
+	clear: both;
+	line - height: 1.6em;
+	font - size: 30px;
+	margin - bottom: 10px
+}
+dl.day_talk dd {
+	clear: both;
+	margin - top: 10px
+}
+input.talk_input_text {
+	height: 18px;
+	line - height: 18px;
+	padding: 6px 10px;
+	width: 380px
+}
+ul.c_list {
+	clear: both;
+	margin: 8px 0
+}
+ul.c_list li {
+	float: left;
+	width: 45 % ;
+	padding: 0 2 % 0 2.8 % ;
+	background: url(.. / images / round_arrow.gif) no - repeat 4px 10px;
+	line - height: 24px;
+	height: 24px;
+	overflow: hidden
+}
+div.att_c_list p {
+	clear: both;
+	line - height: 2em;
+	color: #666
+}
+dl.att_c_list {
+	vertical - align: middle;
+	clear: both;
+	margin: 0 0 8px 0
+}
+dl.att_c_list dt {
+	float: right;
+	width: 80px;
+	padding - top: 4px
+}
+dl.att_c_list dt img {
+	width: 80px;
+	overflow: hidden
+}
+dl.att_c_list dd {
+	float: left;
+	width: 80 % ;
+	color: #666
+}
+dl.att_c_list dd p {
+	line - height: 1.7em;
+	clear: both
+}
+dl.att_c_list dd p.green_link {
+	font - size: 14px;
+	font - weight: bold
+}
+dl.att_c_list dd img {
+	vertical - align: middle
+}
+dl.att_c_list.margin_link a {
+	margin: 0 3px
+}
+dl.att_c_list.margin_link {
+	margin - left: 5px
+}
+div.att_c_list dl.att_tool dd a {
+	padding: 2px 5px;
+	margin: 0 2px;
+	background: #57b03a;
+	color: white
+}
+div.att_c_list dl.att_tool dd a: hover {
+	color: #fff;
+	text - decoration: none;
+	background: #f90
+}
+dl.r_att {
+	clear: both;
+	margin: 10px auto;
+	width: 88 %
+}
+dl.r_att dt {
+	clear: both;
+	text - align: center
+}
+dl.r_att dt img {
+	width: 130px;
+	overflow: hidden
+}
+dl.r_att dt p {
+	margin: 8px 0
+}
+dl.r_att dd {
+	clear: both;
+	line - height: 2em
+}
+ul.r_share {
+	clear: both;
+	width: 88 % ;
+	margin: 8px auto
+}
+ul.r_share li {
+	color: #f60;
+	line - height: 16px;
+	vertical - align: middle
+}
+dl.l_rec {
+	clear: both;
+	width: 90 % ;
+	margin: 8px auto
+}
+dl.l_rec dt {
+	clear: both;
+	line - height: 2em;
+	padding: 0 5px;
+	font - weight: bold
+}
+dl.l_rec dd {
+	clear: both;
+	color: #ccc
+}
+dl.l_rec dd a {
+	margin: 0 5px
+}
+dl.show_list,
+dl.show_bbs {
+	clear: both;
+	padding: 8px 1 % ;
+	border - bottom: 1px solid#ebebeb
+}
+dl.show_list dt,
+dl.show_bbs dt {
+	float: left;
+	width: 55px
+}
+dl.show_list dt img,
+dl.show_bbs dt img {
+	width: 48px
+}
+dl.show_list dd,
+dl.show_bbs dd {
+	float: right;
+	width: 88 % ;
+	line - height: 2em;
+	color: #666
+}
+ul.show_list {
+	clear: both
+}
+ul.show_list li {
+	float: left;
+	width: 80 %
+}
+ul.show_list li.r {
+	line - height: 1.6em;
+	float: right;
+	width: 55px;
+	text - align: center
+}
+dl.show_bbs dd.orange_text {
+	margin: 0 4px
+}
+input.up_btn {
+	cursor: pointer;
+	border: 0;
+	background: url(.. / images / up_btn.png) no - repeat;
+	width: 185px;
+	height: 54px;
+	line - height: 54px;
+	text - align: center
+}
+input.up_btn: hover {
+	background - position: left bottom
+}
+input.listen_btn {
+	color: white;
+	height: 19px;
+	line - height: 19px;
+	text - align: center;
+	color: white;
+	border: 0;
+	cursor: pointer;
+	background: url(.. / images / listen_btn.gif) no - repeat;
+	width: 76px
+}
+input.listen_btn: hover {
+	background - position: left bottom
+}
+ul.show_c_list {
+	clear: both;
+	padding: 8px 1 % ;
+	border - bottom: 1px solid#ebebeb
+}
+ul.show_c_list li {
+	clear: both;
+	line - height: 2em;
+	color: #666;
+	font - size: 14px
+}
+dl.show_c_list {
+	font - size: 12px;
+	line - height: 1.6em;
+	clear: both
+}
+dl.show_c_list dt {
+	float: left;
+	width: 82 %
+}
+dl.show_c_list dt p {
+	clear: both;
+	padding - top: 4px
+}
+dl.show_c_list dt p.orange_text,
+dl.show_c_list dt p a {
+	margin: 0 6px
+}
+dl.show_c_list dd {
+	float: right;
+	width: 80px;
+	text - align: center;
+	line - height: 2em;
+	vertical - align: middle
+}
+dl.show_up {
+	clear: both;
+	width: 80 % ;
+	margin: 20px auto 50px auto
+}
+dl.show_up dt {
+	clear: both;
+	font - size: 20px;
+	color: #57b03a;
+	line - height: 1.6em
+}
+dl.show_up dt a {
+	color: #57b03a
+}
+dl.show_up dt a: hover {
+	color: #f60
+}
+dl.show_up dd {
+	font - size: 14px;
+	font - weight: bold;
+	color: #0771bc;
+	clear: both;
+	line - height: 2em
+}
+dl.show_up dd a {
+	color: #0771bc
+}
+dl.show_up dd p {
+	clear: both;
+	margin: 15px 0;
+	color: #666;
+	font - size: 12px;
+	font - weight: normal
+}
+input.up_orange_btn,
+input.up_blue_btn,
+input.app_btn {
+	font - size: 18px;
+	text - align: center;
+	height: 33px;
+	line - height: 33px;
+	cursor: pointer;
+	border: 0;
+	background: url(.. / images / up_s_btn.gif) no - repeat;
+	width: 83px;
+	color: white
+}
+input.up_orange_btn: hover {
+	background - position: left bottom
+}
+input.up_blue_btn {
+	background - position: right top;
+	width: 107px
+}
+input.up_blue_btn: hover {
+	background - position: right bottom
+}
+input.app_btn {
+	background: url(.. / images / up_btn.jpg) no - repeat;
+	width: 105px
+}
+input.app_btn: hover {
+	background - position: left bottom
+}
+ul.up_tishi {
+	clear: both;
+	margin: 60px auto 0 auto;
+	width: 97 %
+}
+ul.up_tishi li {
+	clear: both;
+	line - height: 2em;
+	margin: 0
+}
+div.up_tishi {
+	clear: both;
+	margin: 8px 0 0 0
+}
+dl.up_tishi {
+	clear: both;
+	width: 95 % ;
+	margin: 8px auto
+}
+dl.up_tishi dt {
+	clear: both;
+	line - height: 1.8em;
+	font - weight: bold
+}
+dl.up_tishi dd {
+	clear: both;
+	line - height: 1.8em
+}
+dl.up_about {
+	clear: both;
+	width: 80 % ;
+	padding: 10px 6 % ;
+	margin: 10px auto;
+	background: url(.. / images / blue_line_x.gif) repeat - x left bottom
+}
+dl.up_about dt {
+	clear: both;
+	text - align: center
+}
+dl.up_about dt img.photo {
+	margin: 0;
+	width: 112px;
+	overflow: hidden
+}
+dl.up_about dt p {
+	clear: both;
+	font - size: 22px;
+	line - height: 1.5em;
+	vertical - align: middle
+}
+dl.up_about img {
+	margin: 0 5px;
+	vertical - align: middle
+}
+dl.up_about dd {
+	clear: both;
+	line - height: 2em
+}
+ul.arrow_news {
+	clear: both;
+	width: 85 % ;
+	margin: 8px auto
+}
+ul.arrow_news li {
+	clear: both;
+	line - height: 24px;
+	height: 24px;
+	overflow: hidden;
+	padding - left: 15px;
+	background: url(.. / images / orange_arrow.gif) no - repeat left 8px
+}
+div.app_left {
+	float: left;
+	width: 600px
+}
+div.app_right {
+	float: right;
+	width: 290px;
+	padding - right: 15px
+}
+table.app_table {
+	clear: both;
+	margin: 30px auto
+}
+table.app_table td {
+	vertical - align: top;
+	padding: 6px 3px
+}
+table.app_table td.r_text {
+	text - align: right
+}
+table.app_table tfoot td {
+	padding - top: 15px
+}
+input.up_text {
+	width: 480px;
+	height: 18px;
+	line - height: 18px;
+	padding: 4px 5px
+}.up_textarea {
+	padding: 5px;
+	height: 120px;
+	line - height: 2em;
+	width: 480px
+}
+dl.app_tishi {
+	clear: both;
+	margin: 30px 0;
+	border: 2px solid#cceaf9
+}
+dl.app_tishi dd {
+	clear: both;
+	width: 88 % ;
+	margin: 10px auto;
+	line - height: 2em
+}
+div.play_l {
+	float: left;
+	width: 655px
+}
+div.play_r {
+	float: right;
+	width: 285px;
+	min - height: 500px;
+	height: auto;
+	_height: 500px
+}
+dl.play_about {
+	clear: both;
+	margin - bottom: 8px
+}
+dl.play_about dt {
+	clear: both;
+	line - height: 2em
+}
+dl.play_about dt.float_l {
+	font - size: 14px;
+	font - weight: bold
+}
+dl.play_about dd {
+	clear: both;
+	line - height: 2em;
+	vertical - align: middle;
+	color: #666;
+	padding - top: 5px
+}
+dl.play_star {
+	clear: both;
+	margin: 8px 0
+}
+dl.play_star dt {
+	float: left;
+	width: 565px
+}
+dl.play_star dd {
+	float: right;
+	text - align: center;
+	color: white;
+	background: url(.. / images / blue_box.gif) no - repeat;
+	width: 84px;
+	height: 72px;
+	line - height: 36px
+}
+dl.play_star dd p {
+	clear: both
+}
+dl.play_star dd a {
+	color: white
+}
+div.play_star {
+	float: left;
+	width: 47 %
+}
+dl.play_th {
+	clear: both;
+	height: 28px;
+	line - height: 28px;
+	overflow: hidden
+}
+dl.play_th dt {
+	float: right
+}
+dl.play_th dd {
+	float: left;
+	font - size: 14px;
+	padding - left: 18px;
+	height: 100 % ;
+	background: url(.. / images / th_arrow_y.gif) no - repeat left 8px
+}
+ul.play_star {
+	clear: both;
+	margin: 8px 0
+}
+ul.play_star li {
+	clear: both;
+	vertical - align: middle;
+	line - height: 1.6em;
+	margin: 4px 0
+}.star {
+	display: inline - block;
+	vertical - align: middle;
+	background: url(.. / images / star.gif) no - repeat;
+	width: 90px;
+	height: 15px;
+	line - height: 15px;
+	overflow: hidden;
+	font - size: 1px
+}.star_1 {
+	background - position: left - 15px
+}.star_2 {
+	background - position: left - 30px
+}.star_3 {
+	background - position: left - 45px
+}.star_4 {
+	background - position: left - 60px
+}.star_5 {
+	background - position: left - 75px
+}
+ul.play_zhi {
+	clear: both;
+	margin: 8px 0
+}
+ul.play_zhi li {
+	clear: both;
+	line - height: 1.9em
+}
+div.play_y_bj {
+	clear: both;
+	width: 95 % ;
+	margin: 10px auto;
+	background: url(.. / images / line_y.gif) repeat - y 50 % top
+}
+div.play_box {
+	overflow - y: auto;
+	clear: both;
+	border: 1px solid#d5d5d5;
+	background: white url(.. / images / gray_bj.gif) repeat - x left top;
+	margin: 8px 0 0 0;
+	padding: 3px 8px
+}
+div.play_wen {
+	font - size: 14px;
+	font - family: verdana,
+	"ms song";
+	line - height: 180 % ;
+	color: #282828;
+	clear: both;
+	margin: 8px 0
+}
+div.play_wen p {
+	clear: both;
+	background: url(.. / images / play_wen_line.gif) repeat;
+	line - height: 26px;
+	text - indent: 2em;
+	margin: 6px 0
+}
+input.try_btn,
+input.play_orange,
+input.play_green {
+	border: 0;
+	color: white;
+	text - align: center;
+	cursor: pointer;
+	height: 23px;
+	line - height: 23px;
+	background: url(.. / images / up_btn.gif) no - repeat;
+	width: 71px
+}
+input.play_orange: hover {
+	background - position: left - 23px
+}
+input.play_green {
+	background - position: -81px top;
+	width: 89px;
+	margin - left: 5px
+}
+input.play_green: hover {
+	background - position: -81px - 23px
+}
+input.try_btn {
+	background - position: right top;
+	width: 100px;
+	margin - top: 4px;
+	height: 19px;
+	line - height: 19px
+}
+input.try_btn: hover {
+	background - position: right - 19px
+}
+dl.tab_blue_th,
+div.play_r_nav {
+	clear: both;
+	background: url(.. / images / tab_blue.gif) repeat - x left - 32px;
+	line - height: 32px;
+	line - height: 32px;
+	overflow: hidden
+}
+dl.tab_blue_th dt,
+div.play_r_nav dt {
+	float: right;
+	padding - right: 10px
+}
+dl.tab_blue_th dd,
+div.play_r_nav dd {
+	float: left;
+	font - size: 14px;
+	padding: 0 18px;
+	height: 100 % ;
+	border - left: 1px solid#009ad9;
+	border - right: 1px solid#009ad9;
+	background: url(.. / images / tab_blue.gif) repeat - x left top
+}
+div.play_r_box {
+	clear: both;
+	border - top: 0;
+	margin - bottom: 8px
+}
+ul.r_arrow_news {
+	clear: both;
+	width: 90 % ;
+	margin: 8px auto
+}
+ul.r_arrow_news li {
+	clear: both;
+	line - height: 24px;
+	height: 24px;
+	overflow: hidden;
+	padding - left: 15px;
+	background: url(.. / images / gray_arrow2.gif) no - repeat left 8px
+}
+div.play_r_nav dd {
+	cursor: pointer;
+	background: 0;
+	border: 0
+}
+div.play_r_nav dd.tab_light {
+	border - left: 1px solid#009ad9;
+	border - right: 1px solid#009ad9;
+	background: url(.. / images / tab_blue.gif) repeat - x left top
+}
+dl.play_club {
+	clear: both;
+	margin: 8px auto;
+	width: 92 %
+}
+dl.play_club dt {
+	float: left;
+	width: 36px
+}
+dl.play_club dt img {
+	width: 36px;
+	overflow: hidden
+}
+dl.play_club dd {
+	float: right;
+	width: 82 %
+}
+dl.play_club ul {
+	clear: both
+}
+dl.play_club li.r {
+	float: right;
+	text - align: center;
+	color: white;
+	background: url(.. / images / fen_box.gif) no - repeat;
+	width: 41px;
+	height: 41px;
+	line - height: 20px;
+	overflow: hidden
+}
+dl.play_club li.r a {
+	color: white
+}
+dl.play_club li.l {
+	float: left;
+	width: 75 % ;
+	color: #666
+}
+div.show_work ul.show_list li.r {
+	width: 78px;
+	text - align: center;
+	vertical - align: middle
+}
+div.show_work ul.show_list li.r.orange_big {
+	font - size: 20px
+}
+div.show_work ul.show_list li.r p {
+	clear: both;
+	padding - top: 4px
+}
+table.tai_table {
+	clear: both;
+	width: 100 % ;
+	margin: 8px 0
+}
+table.tai_table th {
+	background: #f5f5f5;
+	height: 24px;
+	line - height: 24px;
+	font - weight: normal
+}
+table.tai_table th.l_text {
+	text - align: left;
+	padding - left: 15px
+}
+table.tai_table td {
+	line - height: 22px;
+	padding: 2px 0;
+	text - align: center
+}
+table.tai_table td.l_text {
+	padding - left: 10px;
+	text - align: left
+}
+div.r_tai_about {
+	clear: both;
+	width: 92 % ;
+	margin: 8px auto
+}
+div.r_tai_about p {
+	clear: both;
+	line - height: 2em
+}
+ul.r_tai_tad {
+	clear: both;
+	margin: 15px 0 10px 0
+}
+ul.r_tai_tad li {
+	float: left;
+	width: 49.9 %
+}
+ul.r_tai_tad dl {
+	clear: both;
+	width: 90 % ;
+	margin: 0 auto
+}
+ul.r_tai_tad dt {
+	float: left;
+	width: 55px
+}
+ul.r_tai_tad dt img {
+	width: 48px
+}
+ul.r_tai_tad dd {
+	font - weight: bold;
+	float: right;
+	padding - top: 6px;
+	width: 50 % ;
+	line - height: 1.8em;
+	color: #666
+}
+ul.r_tai_tad dd p {
+	clear: both;
+	font - weight: normal
+}
+ul.tai_club {
+	vertical - align: middle;
+	clear: both;
+	width: 92 % ;
+	margin: 8px auto
+}
+ul.tai_club li {
+	clear: both;
+	overflow: hidden;
+	zoom: 1;
+	margin: 6px 0
+}
+ul.tai_club li.tab_num {
+	float: left
+}
+ul.tai_club.float_r {
+	width: 88 %
+}
+ul.tai_club dl {
+	float: left;
+	width: 50 %
+}
+ul.tai_club dt {
+	float: left;
+	width: 20px
+}
+ul.tai_club dt img {
+	width: 20px;
+	overflow: hidden
+}
+ul.tai_club dd {
+	float: right;
+	width: 74 % ;
+	line - height: 1.7em
+}
+ul.tai_club.date {
+	color: #444
+}
+dl.my_bbs_box {
+	clear: both;
+	margin: 8px auto;
+	width: 92 % ;
+	vertical - align: middle
+}
+dl.my_bbs_box dt {
+	float: left
+}
+dl.my_bbs_box dd {
+	float: right
+}
+dl.my_bbs_box input {
+	vertical - align: middle
+}
+dl.my_bbs {
+	clear: both;
+	width: 92 % ;
+	margin: 10px auto
+}
+dl.my_bbs dt {
+	float: left;
+	width: 55px
+}
+dl.my_bbs dt img {
+	width: 48px
+}
+dl.my_bbs dd {
+	float: right;
+	width: 76 % ;
+	line - height: 1.6em;
+	color: #666
+}
+dl.my_bbs dd.orange_text {
+	padding - left: 10px
+}
+input.r_bbs_text {
+	height: 18px;
+	line - height: 18px;
+	color: #666;
+	vertical - align: middle;
+	padding: 4px 5px;
+	width: 190px
+}
+input.r_bbs_btn,
+input.submit_btn,
+input.fan_after_btn {
+	font - size: 14px;
+	color: white;
+	border: 0;
+	cursor: pointer;
+	background: url(.. / images / tai_btn.gif) no - repeat;
+	width: 50px;
+	height: 29px;
+	line - height: 29px
+}
+input.r_bbs_btn: hover {
+	background - position: left - 29px
+}
+input.submit_btn {
+	background - position: -53px top;
+	width: 65px;
+	height: 32px;
+	font - size: 18px;
+	line - height: 32px
+}
+input.submit_btn: hover {
+	background - position: -53px - 32px
+}
+input.tai_app {
+	border: 0;
+	cursor: pointer;
+	color: white;
+	background: url(.. / images / tai_btn.gif) no - repeat - 121px top;
+	width: 79px;
+	height: 23px;
+	line - height: 23px;
+	text - align: center
+}
+input.tai_app: hover {
+	background - position: -121px - 23px
+}
+input.fan_after_btn {
+	height: 31px;
+	line - height: 31px;
+	width: 60px;
+	font - size: 18px;
+	background - position: -209px top
+}
+input.fan_after_btn: hover {
+	background - position: -209px - 31px
+}
+dl.tai_tab_th {
+	clear: both;
+	height: 32px;
+	line - height: 32px;
+	overflow: hidden;
+	background: #dbecf6
+}
+dl.tai_tab_th dt {
+	float: right;
+	padding: 6px 10px 0 0
+}
+dl.tai_tab_th dd {
+	font - family: "寰蒋闆呴粦";
+	float: left;
+	padding: 0 18px;
+	height: 100 % ;
+	border - right: 1px solid white;
+	cursor: pointer;
+	font - size: 14px
+}
+dl.tai_tab_th dd a: hover {
+	text - decoration: none
+}
+dl.tai_tab_th dd.tab_light a {
+	color: white
+}
+dl.tai_tab_th dd.tab_light {
+	background: #6cb4dc;
+	color: white
+}
+dl.tai_tab_th dd.tab_light a: hover {
+	text - decoration: none;
+	color: #fff900
+}
+div.tai_box {
+	clear: both;
+	margin - bottom: 8px;
+	background: #f5f5f5
+}
+div.tai_wen {
+	clear: both;
+	width: 95 % ;
+	margin: 20px auto
+}
+div.tai_wen p {
+	clear: both;
+	margin: 10px 0;
+	line - height: 1.7em
+}
+h1.display_th {
+	clear: both;
+	line - height: 1.5em;
+	font - size: 20px;
+	font - weight: normal
+}
+dl.tai_fan {
+	clear: both;
+	margin: 10px auto;
+	width: 95 %
+}
+dl.tai_fan dd {
+	clear: both;
+	vertical - align: middle;
+	line - height: 2.2em
+}
+dl.tai_fan input {
+	vertical - align: middle
+}
+dl.tai_fan dt {
+	clear: both;
+	margin - bottom: 10px;
+	background: #fff;
+	width: 94.4 % ;
+	padding: 2.5 % ;
+	border: 1px solid#bebebe;
+	overflow - y: auto;
+	height: 190px
+}
+div.fan_wen {
+	clear: both;
+	line - height: 2.2em
+}
+div.fan_wen p {
+	clear: both
+}
+dl.fan_after {
+	clear: both;
+	margin: 10px 0 0 0
+}
+dl.fan_after dt {
+	clear: both;
+	width: 95 % ;
+	margin: 10px auto
+}
+dl.fan_after dd {
+	clear: both;
+	margin - top: 45px;
+	height: 31px;
+	line - height: 31px;
+	vertical - align: middle;
+	padding: 4px 10px;
+	background: #a6d597;
+	font - size: 14px
+}
+dl.fan_after dd b {
+	font - size: 16px;
+	color: #c00
+}
+dl.fan_after dd span.th {
+	font - size: 18px;
+	padding - right: 10px;
+	color: #222
+}
+dl.tai_listen {
+	line - height: 3.5em;
+	clear: both;
+	margin: 10px 0
+}
+dl.tai_listen dt {
+	float: left;
+	font - size: 24px;
+	color: white;
+	background: #c4c4c4;
+	padding: 0 25px
+}
+dl.tai_listen dd {
+	float: right;
+	width: 78 % ;
+	font - size: 18px
+}
+table.listen_table {
+	clear: both;
+	width: 95 % ;
+	margin: 10px auto
+}
+table.listen_table td {
+	vertical - align: middle;
+	padding: 4px 0;
+	line - height: 1.6em
+}
+dl.lister_list {
+	clear: both
+}
+dl.lister_list dt {
+	float: left;
+	width: 30px
+}
+dl.lister_list dt img {
+	width: 30px;
+	overflow: hidden
+}
+dl.lister_list dd {
+	float: right;
+	width: 90 % ;
+	padding - top: 4px
+}
+dl.listen_answer {
+	padding - top: 10px;
+	border - top: 1px solid#dcdcdc;
+	padding: 10px 2.5 % ;
+	clear: both;
+	margin: 10px 0
+}
+dl.listen_answer dt {
+	clear: both;
+	color: #f60;
+	font - weight: bold;
+	line - height: 2em
+}
+dl.listen_answer dd {
+	clear: both;
+	line - height: 2em
+}
+dl.tai_listen_a {
+	clear: both;
+	width: 97 % ;
+	margin: 10px auto;
+	vertical - align: middle
+}
+dl.tai_listen_a dt {
+	clear: both;
+	line - height: 1.8em;
+	font - size: 20px
+}
+dl.tai_listen_a dd {
+	clear: both
+}
+dl.tai_star_listen {
+	clear: both
+}
+dl.tai_star_listen dt {
+	clear: both;
+	width: 95 % ;
+	margin: 0 auto;
+	padding: 170px 0;
+	text - align: center;
+	overflow: hidden;
+	zoom: 1;
+	background: #fff;
+	border: 1px solid#ddd
+}
+dl.tai_star_listen dd {
+	clear: both;
+	padding: 6px 10px;
+	margin - top: 10px;
+	line - height: 1.8em;
+	overflow: hidden;
+	zoom: 1;
+	background: #d6ebd0
+}
+dl.tai_star_listen input.fill_ok_btn {
+	background: url(.. / images / listen_btn.jpg) no - repeat;
+	width: 90px;
+	height: 23px;
+	line - height: 23px
+}
+dl.tai_star_listen input.fill_ok_btn: hover {
+	background - position: left bottom
+}
+ul.r_page {
+	clear: both;
+	width: 90 % ;
+	margin: 8px auto;
+	line - height: 1.8em
+}
+ul.r_page li {
+	clear: both;
+	text - align: right
+}
+ul.r_page a,
+ul.r_page em,
+ul.r_page b {
+	font - style: normal;
+	margin: 0 3px
+}
+ul.r_page b {
+	color: #f60
+}
+dl.tai_music {
+	clear: both;
+	margin: 15px auto 5px auto;
+	width: 95 %
+}
+dl.tai_music dt {
+	clear: both;
+	line - height: 2em;
+	font - size: 18px
+}
+dl.tai_music dd {
+	clear: both;
+	font - size: 14px;
+	line - height: 2em
+}
+dl.tai_music_tool {
+	clear: both;
+	margin: 5px auto 20px auto;
+	vertical - align: middle;
+	width: 95 %
+}
+dl.tai_music_tool dt {
+	padding - top: 10px;
+	float: left;
+	width: 200px
+}
+dl.tai_music_tool dd {
+	float: right
+}
+dl.tai_music_tool dd span {
+	margin - left: 4px
+}
+dl.tai_music_tool dt span.float_r {
+	width: 140px
+}
+ul.music_bar {
+	clear: both
+}
+ul.music_bar li {
+	clear: both
+}
+li.music_bar {
+	height: 15px;
+	line - height: 15px;
+	background: #dcdcdc;
+	margin - bottom: 8px;
+	overflow: hidden
+}.m_bar {
+	display: block;
+	float: left;
+	height: 15px;
+	overflow: hidden;
+	background: #51c22c
+}.m_bar_100 {
+	width: 100 %
+}.m_bar_90 {
+	width: 90 %
+}.m_bar_80 {
+	width: 80 %
+}.m_bar_70 {
+	width: 70 %
+}.m_bar_60 {
+	width: 60 %
+}.m_bar_50 {
+	width: 50 %
+}.m_bar_40 {
+	width: 40 %
+}.m_bar_30 {
+	width: 30 %
+}.m_bar_20 {
+	width: 20 %
+}.m_bar_10 {
+	width: 10 %
+}.music_1,
+.music_2,
+.music_3 {
+	display: block;
+	float: left;
+	margin - right: 2px;
+	background: url(.. / images / music_arrow.gif) no - repeat;
+	width: 16px;
+	height: 16px;
+	line - height: 16px;
+	overflow: hidden;
+	cursor: pointer;
+	vertical - align: middle
+}.music_2 {
+	background - position: -16px top
+}.music_3 {
+	background - position: -32px top
+}
+input.music_btn {
+	color: white;
+	font - size: 15px;
+	border: 0;
+	cursor: pointer;
+	background: url(.. / images / tai_btn.gif) no - repeat - 278px top;
+	width: 76px;
+	line - height: 29px;
+	height: 29px;
+	text - align: center
+}
+input.music_btn: hover {
+	background - position: -278px - 29px
+}
+input.music_input_text {
+	padding: 5px 5px;
+	height: 17px;
+	line - height: 17px;
+	vertical - align: middle;
+	width: 310px;
+	color: #666
+}
+table.m_app_table {
+	width: 100 % ;
+	margin: 8px 0;
+	clear: both
+}
+table.m_app_table td {
+	vertical - align: middle;
+	border - bottom: 1px solid#eee;
+	line - height: 20px;
+	padding: 5px 5px
+}
+table.m_app_table td img {
+	vertical - align: middle
+}.img_20 {
+	width: 20px;
+	overflow: hidden;
+	margin - right: 8px
+}
+dl.app_answer,
+dl.app_answer_l {
+	background: url(.. / images / answer_text.jpg) no - repeat;
+	width: 76px;
+	line - height: 21px;
+	height: 21px;
+	overflow: hidden;
+	text - align: center
+}
+dl.app_answer dt,
+dl.app_answer_l dt {
+	float: left;
+	width: 49.9 % ;
+	color: white
+}
+dl.app_answer dd,
+dl.app_answer_l dd {
+	float: right;
+	width: 49.9 %
+}
+dl.app_answer_l {
+	background - position: left - 21px
+}
+dl.app_answer_l dt {
+	color: #444
+}
+dl.app_answer_l dd {
+	color: white
+}
+dl.fan_result {
+	clear: both;
+	margin: 15px 0;
+	padding: 0 2.5 % 10px 2.5 % ;
+	border - bottom: 1px solid#dcdcdc
+}
+dl.fan_result dt {
+	color: #c00;
+	font - size: 24px;
+	line - height: 1.8em;
+	clear: both
+}
+dl.fan_result dd {
+	clear: both;
+	line - height: 1.8em;
+	font - size: 20px
+}
+dl.tai_ci {
+	clear: both;
+	margin: 160px 0;
+	text - align: center
+}
+dl.tai_ci dt {
+	clear: both;
+	font - size: 24px;
+	line - height: 2em;
+	padding - bottom: 10px
+}
+dl.tai_ci dd {
+	clear: both;
+	text - align: center
+}
+input.tai_try_btn {
+	border: 0;
+	cursor: pointer;
+	height: 47px;
+	line - height: 47px;
+	text - align: center;
+	background: url(.. / images / try_btn.png) no - repeat;
+	width: 176px
+}
+input.tai_try_btn: hover {
+	background - position: left bottom
+}
+dl.tai_grade {
+	clear: both;
+	width: 95 % ;
+	margin: 10px auto
+}
+dl.tai_grade dt {
+	clear: both;
+	margin - bottom: 8px;
+	line - height: 2em;
+	vertical - align: middle
+}
+dl.tai_grade dt.float_l {
+	font - weight: bold
+}
+dl.tai_grade dt.float_r {
+	color: #f60
+}
+dl.tai_grade dt label {
+	margin - left: 10px
+}
+dl.tai_grade dd {
+	clear: both;
+	line - height: 1.7em;
+	margin - top: 8px
+}
+dl.tai_show {
+	clear: both;
+	margin: 10px auto;
+	width: 97 %
+}
+dl.tai_show dt {
+	clear: both;
+	line - height: 2em;
+	font - size: 18px
+}
+dl.tai_show dd {
+	clear: both;
+	margin - top: 10px;
+	vertical - align: middle
+}
+dl.tai_show dd.float_l {
+	width: 60 %
+}
+ul.show_bar {
+	float: left;
+	margin - left: 10px;
+	width: 200px
+}
+dl.tai_show dd ul li {
+	background: #dcdcdc
+}
+dl.tai_show_video {
+	clear: both;
+	margin: 10px auto;
+	width: 97 %
+}
+dl.tai_show_video dt {
+	clear: both
+}
+dl.tai_show_video dd {
+	clear: both;
+	padding - top: 10px;
+	text - align: right
+}
+dl.tai_show_video dd a: hover {
+	text - decoration: none
+}.video_btn_1,
+.video_btn_2,
+.video_btn_3 {
+	display: block;
+	float: left;
+	margin: 0 3px;
+	cursor: pointer;
+	border: 0;
+	background: url(.. / images / tai_video.gif) no - repeat;
+	height: 23px;
+	color: #666;
+	line - height: 23px;
+	width: 61px;
+	text - align: left;
+	text - indent: 22px
+}.video_btn_1: hover {
+	background - position: left - 23px
+}.video_btn_2 {
+	background - position: -69px top
+}.video_btn_2: hover {
+	background - position: -69px - 23px
+}.video_btn_3 {
+	background - position: -136px top;
+	color: white
+}.video_btn_3: hover {
+	background - position: -136px - 23px;
+	color: #fff900
+}
+table.show_table th {
+	background: #f5f5f5;
+	height: 24px;
+	line - height: 24px;
+	font - weight: normal
+}
+table.show_table td {
+	text - align: center
+}
+ul.i_show_bar {
+	vertical - align: middle;
+	float: left;
+	margin - left: 10px;
+	height: 12px;
+	line - height: 12px
+}
+ul.i_show_bar.m_bar {
+	height: 12px;
+	line - height: 12px
+}
+ul.i_show_bar {
+	height: 12px;
+	line - height: 12px;
+	width: 80px;
+	background: #e5e5e5
+}
+ul.g_show_bar.m_bar {
+	background: #6b6b6b;
+	color: white
+}
+input.show_btn {
+	border: 0;
+	margin - right: 5px;
+	color: white;
+	font - weight: bold;
+	text - align: center;
+	cursor: pointer;
+	background: url(.. / images / show_btn.jpg) no - repeat;
+	width: 86px;
+	height: 25px;
+	line - height: 25px
+}
+input.show_btn: hover {
+	background - position: left - 25px
+}
+ul.star_club li img,
+dl.r_mes dt img,
+ul.act_club li img,
+ul.dic_club li img,
+dl.dic_bbs dt img,
+ul.r_dic_club li img,
+dl.show_list dt img,
+dl.show_bbs dt img,
+ul.r_tai_tad dt img,
+dl.my_bbs dt img,
+ul.club_list li img {
+	padding: 2px;
+	background: #fff;
+	border: 1px solid#d5d5d5;
+	overflow: hidden
+}
+ul.star_club li a: hover img,
+dl.r_mes dt a: hover img,
+ul.act_club li a: hover img,
+ul.dic_club li a: hover img,
+dl.dic_bbs dt a: hover img,
+ul.r_dic_club li a: hover img,
+dl.show_list dt a: hover img,
+dl.show_bbs dt a: hover img,
+ul.r_tai_tad dt a: hover img,
+dl.my_bbs dt a: hover img,
+ul.club_list li a: hover img {
+	border: 1px solid#9fe18b;
+	background: #f6fff3
+}
